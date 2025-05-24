@@ -8,7 +8,7 @@
 <>
     <h1>Welcome to php</h1>
     <p>Today we are studying about php in details.
-        Today we are taking a vlass of github
+        Today we are taking a vlass of github.
     </p>
     
 </body>
